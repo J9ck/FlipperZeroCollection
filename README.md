@@ -1,6 +1,6 @@
 # Flipper Zero Collection 🐬
 
-![Flipper Zero Logo](./flipper-logo.png)
+![Flipper Zero Logo](./images.png)
 
 A personal collection of files, tools, and resources for my Flipper Zero — everything I’d need to quickly restore my device if I ever lost all my data.
 
