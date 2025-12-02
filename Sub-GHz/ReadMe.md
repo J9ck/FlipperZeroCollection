@@ -21,6 +21,13 @@ This folder contains Sub-GHz radio signal captures for the Flipper Zero. These f
 - **nice_flo.sub** - Nice Flo protocol gate opener
 - **princeton.sub** - Princeton protocol remote
 
+### Vehicle Controls
+- **Tesla_Charge_Port.sub** - Tesla charge port opener (433.92MHz)
+
+### Playlists
+- **Playlists/All_Fans.txt** - Playlist for all fan controls
+- **Playlists/Doorbells.txt** - Playlist for doorbell signals
+
 ## Usage
 
 1. Copy `.sub` files to your Flipper Zero's SD card in the `subghz` folder

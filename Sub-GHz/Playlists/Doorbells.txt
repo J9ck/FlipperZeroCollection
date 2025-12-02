@@ -1,0 +1,6 @@
+# Flipper SubGHz Playlist - Doorbells
+# Various doorbell signals
+sub: /ext/subghz/came.sub
+sub: /ext/subghz/doorhan.sub
+sub: /ext/subghz/nice_flo.sub
+sub: /ext/subghz/princeton.sub

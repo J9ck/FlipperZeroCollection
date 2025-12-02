@@ -6,6 +6,7 @@ This folder contains music files in Flipper Music Format (.fmf) that can be play
 
 - **Chasing.fmf** - Chasing melody
 - **Marble_Machine.fmf** - Marble Machine tune
+- **Additional songs** - Various national anthems and popular themes (check folder for complete list)
 
 ## Usage
 
@@ -26,6 +27,7 @@ FMF files contain:
 
 For more music files, check out:
 - [Tonsil/flipper-music-files](https://github.com/Tonsil/flipper-music-files) - Large collection of music in FMF format
+- [neverfa11ing/FlipperMusicRTTTL](https://github.com/neverfa11ing/FlipperMusicRTTTL) - RTTTL and FMF songs
 
 ## Creating Your Own
 
@@ -37,3 +39,5 @@ You can create your own FMF files by:
 ## Sources
 
 - Official Flipper Zero SD card examples
+- UberGuidoZ/Flipper repository
+- Community contributions
