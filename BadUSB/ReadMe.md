@@ -18,6 +18,10 @@ These scripts are for **educational purposes only**. Only use them on systems yo
 - **Rickroll-MaxVolume.txt** - Classic rickroll prank with max volume
 - **System-Message.txt** - Displays a system message dialog
 
+### Tools
+- **Anti-AFK-Tool.txt** - Prevents AFK (Away From Keyboard) timeouts
+- **Clean-Command-History.txt** - Cleans PowerShell and command history
+
 ## Usage
 
 1. Copy the desired `.txt` file to your Flipper Zero's SD card in the `badusb` folder
