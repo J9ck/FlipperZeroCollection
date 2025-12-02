@@ -11,12 +11,12 @@ This repository serves as my personal backup for essential files, configurations
 ## Contents 📂
 
 ### Signal & Data Files
-- **Sub-GHz Files** (9 files) – Ceiling fan controls, gate/garage openers (CAME, Doorhan, Nice Flo, Princeton)
+- **Sub-GHz Files** (12 files + playlists) – Ceiling fan controls, gate/garage openers, Tesla charge port, and playback playlists
 - **Infrared (IR) Files** (7 files) – Universal TV database and various remote controls
-- **NFC Files** (24 files) – Fun tags, Amiibo, examples (Mifare Classic, NTAG, UID), and HID iClass
+- **NFC Files** (48 files) – Fun troll tags, Amiibo, examples (Mifare Classic, NTAG, UID), and HID iClass
 - **RFID Files** (3 files) – EM Marine, HID Prox, and Indala examples
 - **iButton Files** (3 files) – Cyfral, Dallas/Maxim, and Metakom protocol keys
-- **Music Files** (2 files) – Flipper Music Format songs for the Music Player app
+- **Music Files** (9 files) – Flipper Music Format songs including national anthems and popular themes
 
 ### Scripts & Applications
 - **BadUSB Scripts** (8 scripts) – Demo scripts, pranks, and utilities (Windows/macOS)
@@ -28,7 +28,7 @@ This repository serves as my personal backup for essential files, configurations
 - **Misc Tools & Scripts** – Other files for exploration, experimentation, and fun
 
 ### Total Collection
-- **56 signal/data files** across 6 categories
+- **82 signal/data files** across 6 categories
 - **8 BadUSB scripts** for automation and testing
 - **169 compiled applications** ready to use
 - **Comprehensive documentation** for all file types
