@@ -10,12 +10,28 @@ This repository serves as my personal backup for essential files, configurations
 
 ## Contents 📂
 
-- **Sub-GHz Files** – Custom signals, remotes, and captures.
-- **NFC & RFID Dumps** – Keycards, badges, and other useful scans.
-- **Infrared (IR) Files** – Remotes and custom IR signals.
-- **BadUSB Scripts** – Handy scripts for various scenarios.
-- **Firmware & Configs** – Preferred firmware versions and configuration files.
-- **Misc Tools & Scripts** – Other files that come in handy for exploration, experimentation, and fun.
+### Signal & Data Files
+- **Sub-GHz Files** (12 files + playlists) – Ceiling fan controls, gate/garage openers, Tesla charge port, and playback playlists
+- **Infrared (IR) Files** (7 files) – Universal TV database and various remote controls
+- **NFC Files** (36 files) – Fun troll tags in Fun_Files, Amiibo, examples (Mifare Classic, NTAG, UID), and HID iClass
+- **RFID Files** (3 files) – EM Marine, HID Prox, and Indala examples
+- **iButton Files** (3 files) – Cyfral, Dallas/Maxim, and Metakom protocol keys
+- **Music Files** (2 files) – Flipper Music Format songs (Chasing, Marble Machine)
+
+### Scripts & Applications
+- **BadUSB Scripts** (8 scripts) – Demo scripts, pranks, and utilities (Windows/macOS)
+- **Applications** (169 .fap files) – Games, GPIO tools, and various Flipper applications
+
+### Additional Resources
+- **Firmware & Configs** – Preferred firmware versions and configuration files
+- **Documentation** – READMEs with usage instructions, protocol info, and safety warnings
+- **Misc Tools & Scripts** – Other files for exploration, experimentation, and fun
+
+### Total Collection
+- **71 signal/data files** across 6 categories
+- **8 BadUSB scripts** for automation and testing
+- **169 compiled applications** ready to use
+- **Comprehensive documentation** for all file types
 
 ## Why This Exists 🐬
 

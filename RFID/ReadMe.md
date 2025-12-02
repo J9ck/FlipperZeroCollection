@@ -2,6 +2,23 @@
 
 Basic start of some RFID exploration.
 
+## Contents
+
+### RFID Files
+- **Em_marine.rfid** - EM Marine/EM4100 125kHz RFID tag example
+- **Hid_prox.rfid** - HID Prox 125kHz RFID tag example
+- **Indala.rfid** - Indala 125kHz RFID tag example
+
+## Usage
+
+1. Copy `.rfid` files to your Flipper Zero's SD card in the `lfrfid` folder
+2. Navigate to **125 kHz RFID** app on your Flipper
+3. Select **Saved** from the menu
+4. Choose the tag you want to emulate
+5. Hold near a compatible RFID reader
+
+## Additional Resources
+
 Copy paxton tags
 https://gist.github.com/natmchugh/18e82761dbce52fa284c87c190dc926f
 

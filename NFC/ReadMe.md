@@ -1,5 +1,15 @@
 # NFC Ramblings and Info
 
+## 📁 Root NFC Files
+
+### Example NFC Files
+- **Classik_1k.nfc** - Mifare Classic 1K example dump
+- **Ntag_213_example.nfc** - NTAG213 tag example
+- **Ntag_216_example.nfc** - NTAG216 tag example  
+- **UID_example.nfc** - Basic UID-only NFC card example
+
+## 📂 Folders
+
 [Fun files](https://github.com/UberGuidoZ/Flipper/tree/main/NFC/Fun_Files) are things I use or things I'm playing with. <br>
 Includes some basic/crude NFC documentation in the ReadMe.<br>
 Also make sure to check out Toxic_Wolf's [NFC Trolls repo](https://github.com/w0lfzk1n/Flipper-Zero-NFC-Trolls)!

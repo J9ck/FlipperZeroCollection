@@ -1,0 +1,7 @@
+# Flipper SubGHz Playlist - All Fan Controls
+# Play all fan control signals
+sub: /ext/subghz/Fan-High.sub
+sub: /ext/subghz/Fan-Medium.sub
+sub: /ext/subghz/Fan-Low.sub
+sub: /ext/subghz/Fan-off.sub
+sub: /ext/subghz/Light-Toggle.sub
